@@ -1,0 +1,12 @@
+name: Cooldowns
+version: '${project.version}'
+main: me.wega.cooldowns.Main
+api-version: 1.19
+commands:
+  example:
+    usage: /example
+    description: example-example
+permissions:
+  vip:
+    description: VIP permissions
+    default: false
